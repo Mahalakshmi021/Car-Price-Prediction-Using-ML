@@ -67,7 +67,7 @@ Car Price Prediction Project
 │
 ├── Car_Price_Prediction.ipynb   # Jupyter Notebook with all code
 ├── README.md                    # Project documentation
-├── data.csv                     # Dataset (if downloaded locally)
+├── CarPrice_Assignment (1).csv                     # Dataset (if downloaded locally)
 ```
 
 ## Conclusion
