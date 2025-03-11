@@ -57,10 +57,6 @@ The following tools and libraries were used in this project:
 - Apply GridSearchCV to optimize the hyperparameters of the best-performing model.
 - Re-evaluate the model's performance after tuning.
 
-### Step 7: Submission
-- Save the Jupyter Notebook as **Car_Price_Prediction.ipynb**.
-- Upload the file to GitHub.
-- Submit the GitHub repository link.
 
 ## Results
 The Random Forest Regressor performed the best among all models with the highest R2 Score and lowest error metrics. Additionally, the feature importance analysis revealed that engine size, horsepower, and car make were the top factors influencing car prices.
